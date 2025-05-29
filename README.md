@@ -28,10 +28,10 @@ Output (transformed sequence): N1w, lNU, x6r8N, lNU, G2eM6, qBEL, ZdI, ZdI, G2eM
 📝 File Structure  
 project/  
 ├── src/  
-│   └── oop/  
-│       └── mid2/  
-│           └── t1/  
-               └── ListProcessor.java  
+│       └── oop/  
+│         └── mid2/  
+│              └── t1/  
+                 └── ListProcessor.java  
  
 📜 LicenseMIT License - Free for educational and commercial use  
 ⁉️ FAQQ: Why use 2n-1 for indexing?  
