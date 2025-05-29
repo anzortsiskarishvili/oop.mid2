@@ -25,12 +25,12 @@ List2: Q7Zm D7PP SY5t ZdI Ldt pqTIo dXQ lNU ZXKSj x6r8N rqr N1w 6LZ G2eM6 uaLm r
 Output (transformed sequence):
 N1w, lNU, x6r8N, lNU, G2eM6, qBEL, ZdI, ZdI, G2eM6, G2eM6, rjZ, ZdI, qBEL.
 -----------------------------------
-📝 File Structureproject/
+📝 File Structureproject/  
 ├── src/  
 │   └── oop/  
 │       └── mid2/  
 │           └── t1/  
-│               └── ListProcessor.java  # Main program file  
+│               └── ListProcessor.java  # Main program file 
 └── README.md                       # This documentation file
 📜 LicenseMIT License - Free for educational and commercial use
 ⁉️ FAQQ: Why use 2n-1 for indexing?
