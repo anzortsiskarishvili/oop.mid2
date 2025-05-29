@@ -19,7 +19,7 @@ javac src/oop/mid2/t1/ListProcessor.java
 # Run the compiled program.  
 # The '-cp src' flag adds the 'src' directory to the classpath,
 # allowing Java to find your packaged class 'oop.mid2.t1.ListProcessor'.java -cp src oop.mid2.t1.ListProcessor  
-Expected Output:--- List Transformation Program ---  
+Expected Output:  --- List Transformation Program ---  
 List1: 6 4 5 4 7 9 2 2 7 7 8 2 9  
 List2: Q7Zm D7PP SY5t ZdI Ldt pqTIo dXQ lNU ZXKSj x6r8N rqr N1w 6LZ G2eM6 uaLm rjZ yMxxE qBEL  
 Output (transformed sequence):  
