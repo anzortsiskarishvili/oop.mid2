@@ -29,9 +29,9 @@ Output (transformed sequence): N1w, lNU, x6r8N, lNU, G2eM6, qBEL, ZdI, ZdI, G2eM
 ├── src/  
 │   └── oop/  
 │       └── mid2/  
-│           └── t1/  
-│               └── ListProcessor.java  # Main program file  
-└── README.md                     # This documentation file  
+           └── t1/  
+                └── ListProcessor.java  # Main program file  
+ 
 📜 LicenseMIT License - Free for educational and commercial use  
 ⁉️ FAQQ: Why use 2n-1 for indexing?  
 A: This was the specified transformation rule in the original problem to map List1 values to List2 indices.  
