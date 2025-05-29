@@ -1,4 +1,4 @@
-A Java program that transforms indices from one list to another using the 2n-1 formula.
+A Java program that transforms indices from one list to another using the 2n-1 formula.  
 📖 Description: This program demonstrates how to:Map values from a numeric list (List1) to indices in a string list (List2)Apply the transformation formula index = 2n - 1Generate the corresponding output sequence
 
 🧮 Transformation LogicFor each integer n in List1:Output = List2[2n - 1]
@@ -26,11 +26,11 @@ Output (transformed sequence):
 N1w, lNU, x6r8N, lNU, G2eM6, qBEL, ZdI, ZdI, G2eM6, G2eM6, rjZ, ZdI, qBEL.
 -----------------------------------
 📝 File Structureproject/
-├── src/
-│   └── oop/
-│       └── mid2/
-│           └── t1/
-│               └── ListProcessor.java  # Main program file
+├── src/  
+│   └── oop/  
+│       └── mid2/  
+│           └── t1/  
+│               └── ListProcessor.java  # Main program file  
 └── README.md                       # This documentation file
 📜 LicenseMIT License - Free for educational and commercial use
 ⁉️ FAQQ: Why use 2n-1 for indexing?
