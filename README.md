@@ -26,11 +26,11 @@ List2: Q7Zm D7PP SY5t ZdI Ldt pqTIo dXQ lNU ZXKSj x6r8N rqr N1w 6LZ G2eM6 uaLm r
 Output (transformed sequence): N1w, lNU, x6r8N, lNU, G2eM6, qBEL, ZdI, ZdI, G2eM6, G2eM6, rjZ, ZdI, qBEL. 
 -----------------------------------
 📝 File Structure  
-project/
-├── src/
-│   └── oop/
-│       └── mid2/
-│           └── t1/
+project/  
+├── src/  
+│   └── oop/  
+│       └── mid2/  
+│           └── t1/  
                └── ListProcessor.java  
  
 📜 LicenseMIT License - Free for educational and commercial use  
