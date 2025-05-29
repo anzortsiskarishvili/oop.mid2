@@ -1,3 +1,4 @@
+<img width="1440" alt="Screenshot 2025-05-28 at 22 44 39" src="https://github.com/user-attachments/assets/c0e5351c-9e8c-4050-ba1f-d8487120f113" />
 A Java program that transforms indices from one list to another using the 2n-1 formula.
 📖 Description: This program demonstrates how to:Map values from a numeric list (List1) to indices in a string list (List2)Apply the transformation formula index = 2n - 1Generate the corresponding output sequence
 
@@ -37,3 +38,5 @@ N1w, lNU, x6r8N, lNU, G2eM6, qBEL, ZdI, ZdI, G2eM6, G2eM6, rjZ, ZdI, qBEL.
 A: This was the specified transformation rule in the original problem to map List1 values to List2 indices.
 Q: How to modify for different lists?
 A: Simply change the list1 and list2 initialization values within ListProcessor.java while maintaining the same index calculation logic.
+
+#Screenshot: <img width="1440" alt="Screenshot 2025-05-28 at 22 44 39" src="https://github.com/user-attachments/assets/c0e5351c-9e8c-4050-ba1f-d8487120f113" />
