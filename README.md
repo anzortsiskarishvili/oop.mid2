@@ -38,4 +38,4 @@ A: This was the specified transformation rule in the original problem to map Lis
 Q: How to modify for different lists?
 A: Simply change the list1 and list2 initialization values within ListProcessor.java while maintaining the same index calculation logic.
 
-#**Screenshot**: <img width="1440" alt="Screenshot 2025-05-28 at 22 44 39" src="https://github.com/user-attachments/assets/c0e5351c-9e8c-4050-ba1f-d8487120f113" />
+**Screenshot**: <img width="1440" alt="Screenshot 2025-05-28 at 22 44 39" src="https://github.com/user-attachments/assets/c0e5351c-9e8c-4050-ba1f-d8487120f113" />
